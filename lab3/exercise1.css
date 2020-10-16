@@ -1,15 +1,14 @@
-body(
-background-color:white;
+body{
+	background-color:white;
 }
 
-#firstHeader(
-font-color:red;
-text-decoration:bold;
-)
+#firstHeader{
+	color:red;
+	font-style:bold;
+}
 
-.greenText(
-font-color:green;
-text-decoration:italic;
-)
+.greenText{
+	color:green;
+	font-style:italic;
+}
 
-)
