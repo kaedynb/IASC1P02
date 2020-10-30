@@ -11,13 +11,13 @@ body{
 
 #b{
 	border: green 2px dashed;
-	margin: 5px 150px 5px 150px;
-	padding: 10px;
+	margin: 25px 5px 25px 5px;
+	/*padding: 10px;*/
 }
 
 #c{
 	border: yellow 2px dashed;
-	margin: 5px 5px 5px 5px;
+	margin: 5px 1160px 5px 5px;
 	padding: 10px;
 }
 	
