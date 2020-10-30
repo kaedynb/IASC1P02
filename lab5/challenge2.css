@@ -1,0 +1,46 @@
+body{
+	background-color:green;
+	padding: 0px 400px 0px 1200px;
+}
+#a{
+	background-color:red;
+	font-size:22px;
+	text-align:center;
+	padding-bottom: 20px;
+	height:100px;
+	width:1300px;
+}
+#b{
+	background-color:pink;
+	float:left;
+	font-size:20px;
+	padding:10px;
+	height:100px;
+	width:300px;
+}
+#c{
+	background-color:orange;
+	float:inherit;
+	font-size: 20px;
+	height:100px;
+	width:1280px;
+	padding:10px;
+}
+#d{
+	background-color:blue;
+	float:left;
+	font-size:18px;
+	padding:0px;
+	height:800px;
+	width:1300px;
+}
+#e{
+	background-color:yellow;
+	font-size:18px;
+	padding-bottom:1px;
+	height:80px;
+	width:1300px;
+	clear:both;
+}
+	
+	

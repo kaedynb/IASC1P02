@@ -1,0 +1,25 @@
+body{
+	background-color:green;
+	padding: 0px 300px 0px 300px;
+}
+#a{
+	background-color:blue;
+	float:left;
+	height: 300px;
+	width:300px;
+	margin: initial;
+}
+#b{
+	background-color:red;
+	float:right;
+	height:300px;
+	width:300px;
+	margin: initial;
+}
+#c{
+	background-color:yellow;
+	margin:300px 600px 0px 500px;
+	height:300px;
+	width:300px;
+	clear:both;
+}

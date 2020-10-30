@@ -1,0 +1,27 @@
+body{
+	background-color:white;
+	padding: 10px 0px 100px 0px;
+}
+#a{
+	background-color:red;
+	height:100px;
+	padding-top:20px;
+	padding-bottom:0px;
+	color:white;
+	text-align:center;
+	font-size:24px;
+	margin:0 auto;
+}
+#b{
+	padding: 5px 5px 0px 0px;
+	background-color:green;
+	height:800px;
+	color:white;
+	margin: 0 auto;
+}
+#c{
+	padding:5px 5px 0px 0px;
+	background-color:blue;
+	height:100px;
+	color:white;
+}
