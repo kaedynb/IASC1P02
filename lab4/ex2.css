@@ -1,0 +1,33 @@
+body{
+	background-color:white;
+}
+#a{
+	height: 50px;
+	font-size: 16px;
+	text-align: center;
+	border:purple 2px dashed;
+	margin: 5px 5px 600px 5px;
+}
+#b{
+	font-size: 10px;
+	height: 100px;
+	text-align: center;
+	color: green;
+}
+#c{
+	font-size: 24px;
+	height: 300px;
+	color: orange;
+}
+#d{
+	font-size: 8px;
+	height: 400px;
+	text-align: right;
+	color: purple;
+}
+sup{
+	color:red;
+}
+em{
+	color:yellow;
+}

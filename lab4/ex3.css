@@ -1,0 +1,17 @@
+body{
+	background-color:#009900;
+}
+#a{
+	font-size:20px;
+	border:black 5px dashed;
+	margin: 0px 5px 10px 5px;
+	color:red;
+}
+#b{ 
+	font-size:20px;
+	color:green;
+}
+#c{
+	font-size:20px;
+	color:purple;
+}

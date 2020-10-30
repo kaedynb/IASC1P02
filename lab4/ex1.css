@@ -1,0 +1,23 @@
+body{
+	color:red;
+	background-color:blue;
+}
+
+#box{
+	border: black 5px solid;
+	margin: 150px 150px 150px 150px;
+}
+
+
+#b{
+	border: green 2px dashed;
+	margin: 5px 150px 5px 150px;
+	padding: 10px;
+}
+
+#c{
+	border: yellow 2px dashed;
+	margin: 5px 5px 5px 5px;
+	padding: 10px;
+}
+	
